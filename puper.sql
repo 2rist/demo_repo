@@ -1,0 +1,1 @@
+DROP DATABASE shopotam_market;
